@@ -22,6 +22,12 @@
 - Added css/
 - Added js/
 ### Update
-- Added README.md
-- Added changelog.md
+- Update README.md
+- Update changelog.md
+---
+
+## [1.0.3] - 05.02.2025
+### Update
+- Update install.md
+- Update changelog.md
 ---
