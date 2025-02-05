@@ -36,3 +36,11 @@
 ### Added
 - Added git_guid.md
 ---
+
+## [1.0.5] - 05.02.2025
+### Added
+- Added graph.png
+
+### Update
+- Update README.md
+---
