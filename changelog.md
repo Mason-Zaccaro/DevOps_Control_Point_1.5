@@ -6,3 +6,41 @@
 - Added changelog.md
 - Added README.md
 - Added install.md
+---
+
+## [1.0.1] - 05.02.2025
+### Added
+- Added logo.png
+### Update
+- Update README.md
+- Update changelog.md
+---
+
+## [1.0.2] - 05.02.2025
+### Added
+- Added index.html
+- Added css/
+- Added js/
+### Update
+- Update README.md
+- Update changelog.md
+---
+
+## [1.0.3] - 05.02.2025
+### Update
+- Update install.md
+- Update changelog.md
+---
+
+## [1.0.4] - 05.02.2025
+### Added
+- Added git_guid.md
+---
+
+## [1.0.5] - 05.02.2025
+### Added
+- Added graph.png
+
+### Update
+- Update README.md
+---
