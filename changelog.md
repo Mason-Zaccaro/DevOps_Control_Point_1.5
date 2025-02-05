@@ -12,6 +12,16 @@
 ### Added
 - Added logo.png
 ### Update
+- Update README.md
+- Update changelog.md
+---
+
+## [1.0.2] - 05.02.2025
+### Added
+- Added index.html
+- Added css/
+- Added js/
+### Update
 - Added README.md
 - Added changelog.md
 ---
