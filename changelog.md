@@ -31,3 +31,8 @@
 - Update install.md
 - Update changelog.md
 ---
+
+## [1.0.4] - 05.02.2025
+### Added
+- Added git_guid.md
+---
